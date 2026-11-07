@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+python-dotenv
+pydantic-ai
+sqlalchemy
+psycopg[binary]
+pytest
+httpx
+sentence-transformers
+faiss-cpu
+pypdf
+python-docx
+rank-bm25
